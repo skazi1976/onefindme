@@ -1,3 +1,5 @@
+🌐 [English](README.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [Türkçe](README.tr.md) · [Polski](README.pl.md) · [Filipino](README.tl.md)
+
 # OneFindMe
 
 **Free AI-powered product search for AliExpress, in 12 languages.**
