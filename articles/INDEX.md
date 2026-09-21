@@ -18,6 +18,7 @@ Guides and articles about finding products on AliExpress, by language. Each file
 - [How to Search AliExpress by Voice — in 12 Languages](en/how-to-search-aliexpress-by-voice.md)
 - [Shopping on AliExpress in your own language: why search fails, and what works](en/shopping-on-aliexpress-in-your-own-language-why-search-fails-and-what.md)
 - [The 6-point checklist before you buy anything on AliExpress](en/the-6-point-checklist-before-you-buy-anything-on-aliexpress.md)
+- [The Search Nobody Built: Voice Shopping on AliExpress in Twelve Languages](en/the-search-nobody-built-voice-shopping-on-aliexpress.md)
 - [Voice search for AliExpress in 12 languages: what I learned building it](en/voice-search-for-aliexpress-in-12-languages-what-i-learned-building-it.md)
 - [What I learned building a 12-language AI product search for AliExpress](en/what-i-learned-building-a-12-language-ai-product-search-for-aliexpress.md)
 
