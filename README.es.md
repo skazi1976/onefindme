@@ -6,6 +6,10 @@
 
 Sitio web: **https://onefindme.com/es/**
 
+**Vídeo de demostración (47 s): búsquedas reales en español, búsqueda por voz y el filtro de eBay.es.**
+
+[![OneFindMe](https://img.youtube.com/vi/DRKnyhcPiSw/hqdefault.jpg)](https://www.youtube.com/watch?v=DRKnyhcPiSw)
+
 ## Qué es
 
 AliExpress tiene cientos de millones de productos, pero su búsqueda solo funciona si conoces la palabra clave exacta en inglés. OneFindMe elimina esa barrera: describe lo que quieres en tu idioma —«piedra pequeña para masaje facial», «zapatillas de correr anchas»— y obtén los productos que mejor coinciden, ordenados por precio y envío a tu país.
