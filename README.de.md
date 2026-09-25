@@ -6,6 +6,10 @@
 
 Website: **https://onefindme.com/de/**
 
+**Demo-Video (47 s):** echte Suchen auf Deutsch, Sprachsuche und der eBay.de-Filter.
+
+[![OneFindMe Demo auf Deutsch](https://img.youtube.com/vi/uN_sXT_e_b8/hqdefault.jpg)](https://www.youtube.com/watch?v=uN_sXT_e_b8)
+
 ## Was es ist
 
 AliExpress listet Hunderte Millionen Produkte, aber die Suche funktioniert nur, wenn man das exakte englische Stichwort kennt. OneFindMe beseitigt diese Hürde: Beschreibe in deiner Sprache, was du suchst – „kleiner Stein für Gesichtsmassage", „breite Laufschuhe" – und erhalte die passendsten Produkte, sortiert nach Preis und Versand in dein Land.
