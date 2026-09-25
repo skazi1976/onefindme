@@ -6,6 +6,10 @@
 
 Website: **https://onefindme.com**
 
+**Demo video (53 s):** real searches in Hebrew, German, Japanese, Arabic and Polish, voice search and the eBay filter.
+
+[![OneFindMe demo video](https://img.youtube.com/vi/2qjGN7GBHq8/hqdefault.jpg)](https://www.youtube.com/watch?v=2qjGN7GBHq8)
+
 ## What it is
 
 AliExpress lists hundreds of millions of products, but its search only works if you already know the exact English keyword. OneFindMe removes that barrier: you describe what you want in your own language — "a small stone for face massage", "wide running shoes", "ceramic pour-over coffee dripper" — and it returns the best-matching AliExpress products, ranked by price and shipping to your country.
