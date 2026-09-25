@@ -17,6 +17,7 @@ Guides and articles about finding products on AliExpress, by language. Each file
 - [How to Find Any Product on AliExpress — Even When You Don't Know Its Name](en/how-to-find-any-product-on-aliexpress.md)
 - [How to Find the Right Product on AliExpress When You Don't Know Its Exact Name](en/how-to-find-the-right-product-on-aliexpress-when-you-don-t-know-its.md)
 - [How to Search AliExpress by Voice — in 12 Languages](en/how-to-search-aliexpress-by-voice.md)
+- [My demo videos found 5 bugs my tests didn't: 13-language product demos from real screenshots](en/my-demo-videos-found-5-bugs-my-tests-didn-t-13-language-product-demos.md)
 - [Shopping on AliExpress in your own language: why search fails, and what works](en/shopping-on-aliexpress-in-your-own-language-why-search-fails-and-what.md)
 - [The 6-point checklist before you buy anything on AliExpress](en/the-6-point-checklist-before-you-buy-anything-on-aliexpress.md)
 - [The Search Nobody Built: Voice Shopping on AliExpress in Twelve Languages](en/the-search-nobody-built-voice-shopping-on-aliexpress.md)
