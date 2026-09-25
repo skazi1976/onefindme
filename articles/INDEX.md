@@ -12,6 +12,7 @@ Guides and articles about finding products on AliExpress, by language. Each file
 
 ## English (en)
 
+- [Adding eBay to an AliExpress search engine: what the numbers said](en/adding-ebay-to-an-aliexpress-search-engine-what-the-numbers-said.md)
 - [How do I find a product on AliExpress when I don't know its exact name? — 15 real questions, answered](en/aliexpress-search-15-questions-answered.md)
 - [How to Find Any Product on AliExpress — Even When You Don't Know Its Name](en/how-to-find-any-product-on-aliexpress.md)
 - [How to Find the Right Product on AliExpress When You Don't Know Its Exact Name](en/how-to-find-the-right-product-on-aliexpress-when-you-don-t-know-its.md)
