@@ -6,6 +6,10 @@
 
 Website: **https://onefindme.com/de/**
 
+**Fahrradteile auf Deutsch suchen: Schaltwerk, Laufradsatz, GPS-Fahrradcomputer, Vorbau (Video).**
+
+[![OneFindMe](https://img.youtube.com/vi/cTflbbG2_zc/hqdefault.jpg)](https://www.youtube.com/watch?v=cTflbbG2_zc)
+
 **Demo-Video (47 s):** echte Suchen auf Deutsch, Sprachsuche und der eBay.de-Filter.
 
 [![OneFindMe Demo auf Deutsch](https://img.youtube.com/vi/uN_sXT_e_b8/hqdefault.jpg)](https://www.youtube.com/watch?v=uN_sXT_e_b8)
