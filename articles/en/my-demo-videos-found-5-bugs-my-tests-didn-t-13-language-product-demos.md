@@ -6,7 +6,7 @@ I run a small search engine that sits in front of AliExpress: you describe a pro
 
 I wanted a short demo video for each language. Recording 13 screen captures by hand, on a phone, from 13 "countries", was not going to happen, so I generated them from the live site instead. The videos turned out fine. The more useful result was that making them exposed five bugs that my checks had never caught.
 
-{% youtube 2qjGN7GBHq8 %}
+[![Video](https://img.youtube.com/vi/2qjGN7GBHq8/hqdefault.jpg)](https://www.youtube.com/watch?v=2qjGN7GBHq8)
 
 ## The pipeline
 
