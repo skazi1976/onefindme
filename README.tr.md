@@ -6,6 +6,10 @@
 
 Web sitesi: **https://onefindme.com/tr/**
 
+**Tanıtım videosu: Türkçe gerçek aramalar ve sesli arama.**
+
+[![OneFindMe](https://img.youtube.com/vi/b2EqzaV1E6k/hqdefault.jpg)](https://www.youtube.com/watch?v=b2EqzaV1E6k)
+
 ## Nedir
 
 AliExpress'te yüz milyonlarca ürün var, ancak arama yalnızca doğru İngilizce anahtar kelimeyi biliyorsanız işe yarar. OneFindMe bu engeli kaldırır: Ne istediğinizi kendi dilinizde tarif edin — "yüz masajı için küçük taş", "geniş koşu ayakkabısı" — ve fiyat ile ülkenize kargoya göre sıralanmış en uygun ürünleri alın.
