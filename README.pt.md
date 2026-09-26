@@ -6,6 +6,10 @@
 
 Site: **https://onefindme.com/pt/**
 
+**Vídeo de demonstração: buscas reais em português e a busca por voz.**
+
+[![OneFindMe](https://img.youtube.com/vi/BArzffnLhX4/hqdefault.jpg)](https://www.youtube.com/watch?v=BArzffnLhX4)
+
 ## O que é
 
 O AliExpress lista centenas de milhões de produtos, mas a busca só funciona se você souber a palavra-chave exata em inglês. O OneFindMe remove essa barreira: descreva o que você quer no seu idioma — "pedra pequena para massagem facial", "tênis de corrida largo" — e receba os produtos mais compatíveis, ordenados por preço e frete para o seu país.
