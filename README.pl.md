@@ -6,6 +6,10 @@
 
 Strona: **https://onefindme.com/pl/**
 
+**Film demonstracyjny: prawdziwe wyszukiwania po polsku, wyszukiwanie głosowe i filtr eBay.**
+
+[![OneFindMe](https://img.youtube.com/vi/oh6GJ8qEkPk/hqdefault.jpg)](https://www.youtube.com/watch?v=oh6GJ8qEkPk)
+
 ## Co to jest
 
 AliExpress ma setki milionów produktów, ale wyszukiwarka działa tylko wtedy, gdy znasz dokładne angielskie słowo kluczowe. OneFindMe usuwa tę barierę: opisz, czego szukasz, w swoim języku — „mały kamień do masażu twarzy", „szerokie buty do biegania" — i otrzymaj najlepiej dopasowane produkty, posortowane według ceny i wysyłki do Twojego kraju.
