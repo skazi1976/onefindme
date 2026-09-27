@@ -23,6 +23,7 @@ Guides and articles about finding products on AliExpress, by language. Each file
 - [The Search Nobody Built: Voice Shopping on AliExpress in Twelve Languages](en/the-search-nobody-built-voice-shopping-on-aliexpress.md)
 - [Voice search for AliExpress in 12 languages: what I learned building it](en/voice-search-for-aliexpress-in-12-languages-what-i-learned-building-it.md)
 - [What I learned building a 12-language AI product search for AliExpress](en/what-i-learned-building-a-12-language-ai-product-search-for-aliexpress.md)
+- [What my blind brother taught me about making a shopping search engine work with VoiceOver](en/what-my-blind-brother-taught-me-about-making-a-shopping-search-engine.md)
 
 ## Español (es)
 
