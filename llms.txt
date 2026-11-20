@@ -1,0 +1,32 @@
+# OneFindMe
+
+> Free AI product search for AliExpress in 21 languages, plus buying guides and how-to articles. This repository archives OneFindMe content; the live site is the canonical source.
+
+## Guides index
+- [All languages](site-guides/README.md)
+- [English](site-guides/en.md)
+- [עברית](site-guides/he.md)
+- [Français](site-guides/fr.md)
+- [Español](site-guides/es.md)
+- [Deutsch](site-guides/de.md)
+- [Português](site-guides/pt.md)
+- [Italiano](site-guides/it.md)
+- [Русский](site-guides/ru.md)
+- [العربية](site-guides/ar.md)
+- [Polski](site-guides/pl.md)
+- [Türkçe](site-guides/tr.md)
+- [日本語](site-guides/ja.md)
+- [한국어](site-guides/ko.md)
+- [Filipino](site-guides/tl.md)
+- [Українська](site-guides/uk.md)
+- [Bahasa Indonesia](site-guides/id.md)
+- [Tiếng Việt](site-guides/vi.md)
+- [Nederlands](site-guides/nl.md)
+- [Ελληνικά](site-guides/el.md)
+- [Čeština](site-guides/cs.md)
+- [ไทย](site-guides/th.md)
+
+## Live access for agents
+- [MCP server](https://onefindme.com/mcp): search_guides, get_guide, search_products, build_basket (no auth)
+- [NLWeb ask](https://onefindme.com/ask?query=lace+wig+sizes)
+- [Site llms.txt](https://onefindme.com/llms.txt)
